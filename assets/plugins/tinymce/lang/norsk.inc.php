@@ -2,7 +2,7 @@
  * Version:        2.0.9
  * MODx version:   0.9.5
 */
-include_once(dirname(__FILE__).'/english.inc.php'); // fallback for missing defaults or new additions$_lang['tinymce_editor_theme_title'] = "Theme:";
+include_once(dirname(__FILE__).'/english.inc.php'); // fallback for missing defaults or new additions$_lang['tinymce_editor_theme_title'] = "Theme:";
 $_lang['tinymce_editor_theme_message'] = "Here you can select which theme or skin to use with the editor.";
 $_lang['tinymce_editor_custom_plugins_title'] = "Custom Plugins:";
 $_lang['tinymce_editor_custom_plugins_message'] = "Enter the plugins to use for the 'custom' theme as a comma separated list.";
